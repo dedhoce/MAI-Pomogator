@@ -1,0 +1,10 @@
+.profile__position-name-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .profile__position-name-button {
+    margin-bottom: 8px;
+  }
+}

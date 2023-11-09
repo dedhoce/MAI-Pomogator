@@ -1,0 +1,17 @@
+.profile__avatar-edit-button {
+    margin: 0;
+    padding: 0;
+    width: 26px;
+    height: 26px;
+    position: absolute;
+    right: 47px;
+    top: 47px;
+    opacity: 0;
+    background-image: url(../../../images/VectorEditImgProf.svg);
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    cursor: pointer;
+    z-index: 3;
+    transition: opacity 0.5s ease;
+}
+

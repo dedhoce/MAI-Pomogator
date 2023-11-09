@@ -1,0 +1,18 @@
+.header__button-bar-open {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: #000;
+  background-image: url(../../../images/OpenHeaderBar.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 24px;
+  height: 18px;
+  transition: opacity 0.5s ease;
+  cursor: pointer;
+  margin-right: 30px;
+}
+
+.header__button-bar-open:hover {
+  opacity: 0.6;
+}

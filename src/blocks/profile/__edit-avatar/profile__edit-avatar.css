@@ -1,0 +1,14 @@
+.profile__edit-avatar {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  cursor: pointer;   
+}
+.profile__edit-avatar:hover .profile__avatar{
+  transition: opacity 0.5s ease-out;
+  opacity: 0.4;
+}
+
+.profile__edit-avatar:hover .profile__avatar-edit-button{
+  opacity: 1;
+}

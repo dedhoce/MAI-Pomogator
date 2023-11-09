@@ -1,0 +1,7 @@
+.regist__form-field {
+  position: relative;
+  width: 100%;
+}
+.regist__form-field:last-of-type {
+  margin-bottom: 216px;
+}

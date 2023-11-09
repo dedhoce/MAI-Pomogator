@@ -1,0 +1,15 @@
+.profile__block {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  max-width: calc(336px + 30px + 120px);
+  width: 100%;
+  justify-content: space-between;
+}
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .profile__block {
+    flex-direction: column;
+    gap: 25px;
+  }
+}

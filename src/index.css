@@ -1,13 +1,38 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import url(./vendor/normalize.css);
+@import url(./vendor/inter.css);
+@import url(./blocks/root/root.css);
+@import url(./blocks/content/content.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/logo/logo.css);
+@import url(./blocks/logo/_place/logo_place_header.css);
+@import url(./blocks/profile/profile.css);
+@import url(./blocks/profile/__position-name-button/profile__position-name-button.css);
+@import url(./blocks/profile/__block/profile__block.css);
+@import url(./blocks/profile/__avatar/profile__avatar.css);
+@import url(./blocks/profile/__info/profile__info.css);
+@import url(./blocks/profile/__name/profile__name.css);
+@import url(./blocks/profile/__subname/profile__subname.css);
+@import url(./blocks/elements/elements.css);
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__copyright/footer__copyright.css);
+@import url(./blocks/profile/__edit-avatar/profile__edit-avatar.css);
+@import url(./blocks/regist/regist.css);
+@import url(./blocks/regist/__block-form/regist__block-form.css);
+@import url(./blocks/regist/__button-clear-input/regist__button-clear-input.css);
+@import url(./blocks/regist/__button-clear-input/_status/regist__button-clear-input_status_active.css);
+@import url(./blocks/regist/__button-save/regist__button-save.css);
+@import url(./blocks/regist/__button-save/_inactive/regist__button-save_inactive.css);
+@import url(./blocks/regist/__form-field/regist__form-field.css);
+@import url(./blocks/regist/__form/regist__form.css);
+@import url(./blocks/regist/__input/regist__input.css);
+@import url(./blocks/regist/__text-error/regist__text-error.css);
+@import url(./blocks/regist/__text-error/_active/regist__text-error_active.css);
+@import url(./blocks/regist/__text/regist__text.css);
+@import url(./blocks/regist/__title/regist__title.css);
+@import url(./blocks/regist/__text-link/regist__text-link.css);
+@import url(./blocks/header/__link/header__link.css);
+@import url(./blocks/header/__user-email/header__user-email.css);
+@import url(./blocks/header/__log-out/header__log-out.css);
+@import url(./blocks/header/__email-botton-case/header__email-botton-case.css);
+@import url(./blocks/header/__button-bar-open/header__button-bar-open.css);
+@import url(./blocks/header/__button-bar-close/header__button-bar-close.css);

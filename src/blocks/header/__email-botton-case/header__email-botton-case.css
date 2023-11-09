@@ -1,0 +1,16 @@
+.header__email-botton-case {
+  display: flex;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .header__email-botton-case {   
+    flex-direction: column;
+    gap: 18px;
+    padding: 40px 0 12px;
+    align-items: center;
+  }
+  .header__email-botton-case:last-child {
+    gap: 0;
+  }
+}

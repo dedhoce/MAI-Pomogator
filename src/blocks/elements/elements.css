@@ -1,0 +1,16 @@
+.elements {
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  margin-bottom: 66px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 17px;
+}
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .elements {
+    width: 88%;
+    margin-bottom: 44px;
+  }
+}
