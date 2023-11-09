@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MAI-Pomogator/static/css/main.4d61ee77.css",
-    "main.js": "/MAI-Pomogator/static/js/main.abf1499a.js",
+    "main.css": "/MAI-Pomogator/static/css/main.bff032a3.css",
+    "main.js": "/MAI-Pomogator/static/js/main.0418d60f.js",
     "static/js/787.360c6d51.chunk.js": "/MAI-Pomogator/static/js/787.360c6d51.chunk.js",
     "static/media/Inter-Medium.woff": "/MAI-Pomogator/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Black.woff": "/MAI-Pomogator/static/media/Inter-Black.c6938660eec019fefd68.woff",
@@ -12,12 +12,12 @@
     "static/media/image.jpg": "/MAI-Pomogator/static/media/image.bbe7c5b6093ec0273de1.jpg",
     "index.html": "/MAI-Pomogator/index.html",
     "static/media/Close Icon.svg": "/MAI-Pomogator/static/media/Close Icon.48df8b0c027b543fbab5.svg",
-    "main.4d61ee77.css.map": "/MAI-Pomogator/static/css/main.4d61ee77.css.map",
-    "main.abf1499a.js.map": "/MAI-Pomogator/static/js/main.abf1499a.js.map",
+    "main.bff032a3.css.map": "/MAI-Pomogator/static/css/main.bff032a3.css.map",
+    "main.0418d60f.js.map": "/MAI-Pomogator/static/js/main.0418d60f.js.map",
     "787.360c6d51.chunk.js.map": "/MAI-Pomogator/static/js/787.360c6d51.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d61ee77.css",
-    "static/js/main.abf1499a.js"
+    "static/css/main.bff032a3.css",
+    "static/js/main.0418d60f.js"
   ]
 }
