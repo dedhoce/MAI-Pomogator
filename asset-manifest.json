@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MAI-Pomogator/static/css/main.4d61ee77.css",
+    "main.js": "/MAI-Pomogator/static/js/main.abf1499a.js",
+    "static/js/787.360c6d51.chunk.js": "/MAI-Pomogator/static/js/787.360c6d51.chunk.js",
+    "static/media/Inter-Medium.woff": "/MAI-Pomogator/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/MAI-Pomogator/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/MAI-Pomogator/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/MAI-Pomogator/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/MAI-Pomogator/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/MAI-Pomogator/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/image.jpg": "/MAI-Pomogator/static/media/image.bbe7c5b6093ec0273de1.jpg",
+    "index.html": "/MAI-Pomogator/index.html",
+    "static/media/Close Icon.svg": "/MAI-Pomogator/static/media/Close Icon.48df8b0c027b543fbab5.svg",
+    "main.4d61ee77.css.map": "/MAI-Pomogator/static/css/main.4d61ee77.css.map",
+    "main.abf1499a.js.map": "/MAI-Pomogator/static/js/main.abf1499a.js.map",
+    "787.360c6d51.chunk.js.map": "/MAI-Pomogator/static/js/787.360c6d51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d61ee77.css",
+    "static/js/main.abf1499a.js"
+  ]
+}
